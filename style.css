@@ -1,0 +1,36 @@
+/*Hailey Cross
+May 27, 2021
+Web Design
+WEB 210*/
+
+body{text-align: justify;}
+
+section{text-align:center;
+    margin-top:20px;
+    margin-bottom:20px;}
+
+header{text-align:center;}
+
+aside{text-align:left;}
+
+footer{text-align:right;
+    font-style:italic;
+    color:darkgray;}
+
+footer a:link{color:gray;}
+
+h1{text-align:center;
+    font-size:40px;
+    color:dimgray}
+
+h2{font-style:italic;
+    text-align:center;
+    color:gray}
+
+h3{font-style:normal;
+    color:darkgrey;
+    font-size:17.25px}
+
+img{width:100%;
+    height: auto;}
+
